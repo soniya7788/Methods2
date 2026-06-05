@@ -85,7 +85,7 @@ public class Methods2 {
 		System.out.println("Cube of "+num+" is "+(num*num*num));
 	}
 
-	//****************** WAP for print whole information related to u *******************
+	//*************** WAP for print whole information related to u ****************
 		public void info(String name, String education, String dob, String hobby)
 		{
 			
